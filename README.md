@@ -4,8 +4,8 @@
 
 ### Allgemein
 
+🔎 [Searx (Disroot)](https://search.disroot.org/)  
 🔎 [Startpage](https://www.startpage.com/)  
-🔎
 
 ### Speziell
 
