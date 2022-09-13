@@ -5,12 +5,14 @@
 ### Allgemein
 
 [Metager](https://metager.de/)
- • 
+•
 [Metager Tor](http://metagerv65pwclop2rsfzg4jwowpavpwd6grhhlvdgsswvo6ii4akgyd.onion/)
 
 [Searx (Disroot)](https://search.disroot.org/)
 
 [Startpage](https://www.startpage.com/)
+
+[DuckDuckGo](https://duckduckgo.com/)
 
 ### Speziell
 
@@ -23,3 +25,7 @@
 ## Übersetzung
 
 👥 [DeepL](https://www.deepl.com/translator-mobile)
+
+## Privacy
+
+[Prsim-Break 🇩🇪](https://prism-break.org/de/)
