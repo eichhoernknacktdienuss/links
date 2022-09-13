@@ -29,3 +29,5 @@
 ## Privacy
 
 [Prsim-Break 🇩🇪](https://prism-break.org/de/)
+
+[Kuketz-Empfehlungsecke](https://www.kuketz-blog.de/empfehlungsecke/)
