@@ -11,7 +11,7 @@
 
 📚 [Wörterbuchnetz](https://woerterbuchnetz.de/#0)  
 📰 [BASE](https://www.base-search.net/)  
-🗂️ [Wolfram](https://www.wolframalpha.com/)
+🗂️ [Wolfram](https://www.wolframalpha.com/)  
 
 ## Übersetzung
 
